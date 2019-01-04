@@ -25,6 +25,8 @@ class Welcome extends CI_Controller {
 		$this->load->view('welcome_message23');
 		$this->load->view('welcome_message234');
 		$this->load->view('welcome_message2345');
+
+		echo 'try n error';
 	}
 
 }
