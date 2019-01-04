@@ -24,6 +24,7 @@ class Welcome extends CI_Controller {
 		echo 'testing git';
 		echo "testing 2222 git";
 		echo 'testing git 333';
+		echo 'tesing edit at git';
 	}
 
 }
