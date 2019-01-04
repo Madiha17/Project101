@@ -21,6 +21,9 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('welcome_message');
+		echo 'testing git';
+		echo "testing 2222 git";
+		echo 'testing git 333';
 	}
 
 }
